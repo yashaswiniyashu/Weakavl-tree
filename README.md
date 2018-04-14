@@ -1,5 +1,2 @@
 "# Weakavl-tree"
-TO RUN THIS PROJECT FOLLOW THE STEPS BELOW:
-1.Run the main.py file on the terminal.
-  python3 main.py
-2.If you want to compare the runtimes of avl,redblack and wavl tree just run the time.py on the terminal.  
+weak AVL tree is a self-balancing binary search tree. WAVL trees are named after AVL trees, another type of balanced search tree, and are closely related both to AVL trees and red–black trees, which all fall into a common framework of rank balanced trees. Like other balanced binary search trees, WAVL trees can handle insertion, deletion, and search operations in time O(log n) per operation.
